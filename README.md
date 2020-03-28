@@ -10,4 +10,4 @@
 ## [Software Architecture](./Software_Architecture/Software_Architecture.md)
 
 
-## [Service-Oriented Architecture](./Service-Oriented_Architecture/Service-Oriented Architecture.md)
+## [Service-Oriented Architecture](./Service-Oriented_Architecture/Service-Oriented_Architecture.md)
